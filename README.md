@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShanliZ
-- 🌱 I’m currently learning Java and C
+
 - 📫 shanli.zaeifnejad@gmail.com
 
 <!---
